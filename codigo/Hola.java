@@ -1,7 +1,7 @@
-class Hola
-{
-    public static void main(String[] args)
-    {
-        System.out.println("Hola a todos");
+public class HolaMundo {
+    
+    public static void main(String[] args) {
+        
+        System.out.println("Hola Mundo, este es mi primer commit");
     }
 }
